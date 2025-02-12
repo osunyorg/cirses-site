@@ -2,6 +2,11 @@
 
 baseURL: https://site.cirses.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: cad6dac0-d8ad-41d1-b21e-f9063b90d2bc
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
